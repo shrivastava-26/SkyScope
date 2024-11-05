@@ -48,4 +48,4 @@ Clone the repository:
     Open index.html in your browser to run the application locally.
 
 
-SkyScope – Stay one step ahead of the weather, wherever you are!
+### SkyScope – Stay one step ahead of the weather, wherever you are!
