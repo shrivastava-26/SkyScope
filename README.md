@@ -1,5 +1,6 @@
 # 🌤️ SkyScope - Your Go-to Weather Companion
-SkyScope is a sleek and powerful weather application designed to provide real-time weather updates, personalized forecasts, and interactive maps. Whether you're planning a trip, commuting, or simply curious about the changing skies, SkyScope ensures you're always informed.
+SkyScope is a sleek and powerful weather application designed to provide real-time weather updates, personalized forecasts, and interactive maps. Whether you're planning a trip, commuting, or simply curious about the changing skies, SkyScope ensures you're always informed
+
 
 ## 🚀 Features
 
